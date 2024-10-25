@@ -5,3 +5,4 @@ install tomcat version 10.1
 install jstl files
 install postgresql 
 download this project and run it
+unzip the file to play the video
